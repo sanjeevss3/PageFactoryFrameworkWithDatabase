@@ -22,8 +22,6 @@ public class LoginTest extends TestBase{
 	@Test
 	public void testLoginToApplication(){
 		System.out.println("It is login page.");
-		System.out.println("It is login page.");
-		System.out.println("It is login page.");
 		log.info(LoginTest.class.getName()+" started");
 		Config config = new Config(OR);
 		driver.get(config.getWebsite());
