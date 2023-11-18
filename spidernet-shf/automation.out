@@ -1,6 +1,0 @@
-2018-06-26 13:53:27 INFO  TestBase:125 - loading config.properties
-2018-06-26 13:53:27 INFO  TestBase:130 - loading or.properties
-2018-06-26 13:53:27 INFO  TestBase:135 - loading homepage.properties
-2018-06-26 13:53:32 INFO  WaitHelper:36 - 20
-2018-06-26 13:53:32 INFO  WaitHelper:41 - 240
-2018-06-26 13:53:32 INFO  LoginTest:27 - com.hybridFramework.loginPage.LoginTest started
